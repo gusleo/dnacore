@@ -1,0 +1,16 @@
+#:E:\KODELAPAN-GIT\dnacore\dna.core\src\dna.core.applicationservice\dna.core.appservice.xproj
+E:\KODELAPAN-GIT\dnacore\dna.core\src\dna.core.applicationservice\dna.core.appservice.xproj|E:\KODELAPAN-GIT\dnacore\dna.core\src\dna.core.helper\dna.core.helper.xproj
+E:\KODELAPAN-GIT\dnacore\dna.core\src\dna.core.applicationservice\dna.core.appservice.xproj|E:\KODELAPAN-GIT\dnacore\dna.core\src\dna.core.infrastructure\dna.core.infrastructure.xproj
+E:\KODELAPAN-GIT\dnacore\dna.core\src\dna.core.applicationservice\dna.core.appservice.xproj|E:\KODELAPAN-GIT\dnacore\dna.core\src\dna.core.service\dna.core.service.xproj
+E:\KODELAPAN-GIT\dnacore\dna.core\src\dna.core.service\dna.core.service.xproj|E:\KODELAPAN-GIT\dnacore\dna.core\src\dna.core.data\dna.core.data.xproj
+#:E:\KODELAPAN-GIT\dnacore\dna.core\src\dna.core\dna.core.ui.xproj
+E:\KODELAPAN-GIT\dnacore\dna.core\src\dna.core\dna.core.ui.xproj|E:\KODELAPAN-GIT\dnacore\dna.core\src\dna.core.applicationservice\dna.core.appservice.xproj
+E:\KODELAPAN-GIT\dnacore\dna.core\src\dna.core\dna.core.ui.xproj|E:\KODELAPAN-GIT\dnacore\dna.core\src\dna.core.data\dna.core.data.xproj
+E:\KODELAPAN-GIT\dnacore\dna.core\src\dna.core\dna.core.ui.xproj|E:\KODELAPAN-GIT\dnacore\dna.core\src\dna.core.helper\dna.core.helper.xproj
+E:\KODELAPAN-GIT\dnacore\dna.core\src\dna.core\dna.core.ui.xproj|E:\KODELAPAN-GIT\dnacore\dna.core\src\dna.core.infrastructure\dna.core.infrastructure.xproj
+E:\KODELAPAN-GIT\dnacore\dna.core\src\dna.core\dna.core.ui.xproj|E:\KODELAPAN-GIT\dnacore\dna.core\src\dna.core.service\dna.core.service.xproj
+E:\KODELAPAN-GIT\dnacore\dna.core\src\dna.core\dna.core.ui.xproj|E:\KODELAPAN-GIT\dnacore\dna.core\src\dna.core.service.cache\dna.core.service.cache.xproj
+E:\KODELAPAN-GIT\dnacore\dna.core\src\dna.core.applicationservice\dna.core.appservice.xproj|E:\KODELAPAN-GIT\dnacore\dna.core\src\dna.core.helper\dna.core.helper.xproj
+E:\KODELAPAN-GIT\dnacore\dna.core\src\dna.core.applicationservice\dna.core.appservice.xproj|E:\KODELAPAN-GIT\dnacore\dna.core\src\dna.core.infrastructure\dna.core.infrastructure.xproj
+E:\KODELAPAN-GIT\dnacore\dna.core\src\dna.core.applicationservice\dna.core.appservice.xproj|E:\KODELAPAN-GIT\dnacore\dna.core\src\dna.core.service\dna.core.service.xproj
+E:\KODELAPAN-GIT\dnacore\dna.core\src\dna.core.service\dna.core.service.xproj|E:\KODELAPAN-GIT\dnacore\dna.core\src\dna.core.data\dna.core.data.xproj
