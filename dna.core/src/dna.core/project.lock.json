@@ -3883,22 +3883,6 @@
           "dna.core.service": "1.0.0"
         }
       },
-      "dna.core.appservice/1.0.0": {
-        "type": "project",
-        "framework": ".NETStandard,Version=v1.6",
-        "dependencies": {
-          "NETStandard.Library": "1.6.0",
-          "dna.core.helper": "1.0.0",
-          "dna.core.infrastructure": "1.0.0",
-          "dna.core.service": "1.0.0"
-        },
-        "compile": {
-          "netstandard1.6/dna.core.appservice.dll": {}
-        },
-        "runtime": {
-          "netstandard1.6/dna.core.appservice.dll": {}
-        }
-      },
       "dna.core.data/1.0.0": {
         "type": "project",
         "framework": ".NETStandard,Version=v1.6",
@@ -10080,11 +10064,6 @@
     "dna.core.applicationservice/1.0.0": {
       "type": "project",
       "path": "../dna.core.applicationservice/project.json"
-    },
-    "dna.core.appservice/1.0.0": {
-      "type": "project",
-      "path": "../dna.core.applicationservice/project.json",
-      "msbuildProject": "../dna.core.applicationservice/dna.core.appservice.xproj"
     },
     "dna.core.data/1.0.0": {
       "type": "project",
